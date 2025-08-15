@@ -5,7 +5,9 @@
   }
 
   .actions-section .info {
-    max-width: unset;
+    max-width: unset !important;
+    text-align: center;
+    padding: 10px;
   }
 }
 

@@ -11,6 +11,12 @@ Destiny is a modern web module project. This project aims to showcase fundamenta
 
 
 
+## 🛠️ Technologies Used
+- HTML 5
+- JavaScript
+- CSS
+
+
 ## 🖼️ Screenshot
 
 <img src="destiny.gif" />
